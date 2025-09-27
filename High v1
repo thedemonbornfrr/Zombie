@@ -1023,7 +1023,7 @@ local function createMainHub()
     
     CreditsTab:Paragraph({
         Title = "Script Creator",
-        Desc = "This Zombie Battle Tycoon script was created by the Silent Team. Features include auto build, unlimited money, hitbox expansion, ESP, and more automation tools.",
+        Desc = "This Zombie Battle Tycoon script was created by the Drax and Xyno. Features include auto build, unlimited money, hitbox expansion, ESP, and more automation tools.",
         Color = "Red",
         Image = "rbxassetid://18793032501",
         ImageSize = 50,
